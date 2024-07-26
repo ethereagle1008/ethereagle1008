@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img src="./assets/coding.gif" alt="Cover">
+<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 </p>
 
 <a href="https://app.daily.dev/Envoy_"><img align="right" src="https://api.daily.dev/devcards/54371a309e0a49fdbb18b238d19f6ac9.png?r=kas" width="200" alt="Vedant Chainani's Dev Card"/></a>
